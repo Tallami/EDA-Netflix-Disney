@@ -21,7 +21,7 @@
   - Netflix Shows: https://www.kaggle.com/datasets/shivamb/netflix-shows?datasetId=434238
   - Disney Movies and TV Shows: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
-## Project Structure
+## 📊 Project Structure
 This project is organized as follows:
 
 - `data`: Contains the raw and processed datasets.
