@@ -21,3 +21,22 @@
   - Netflix Shows: https://www.kaggle.com/datasets/shivamb/netflix-shows?datasetId=434238
   - Disney Movies and TV Shows: https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
+## Project Structure
+This project is organized as follows:
+
+- `data`: Contains the raw and processed datasets.
+  - `processed`: Contains the cleaned and processed data files.
+  - `raw`: Contains the original data files.
+- `notebooks`: Contains Jupyter notebooks for various stages of the project.
+  - `1.0-Previsualization.ipynb`: Initial data exploration.
+  - `1.1-CleaningDisney.ipynb`: Data cleaning for the Disney dataset.
+  - `1.1-CleaningNetflix.ipynb`: Data cleaning for the Netflix dataset.
+  - `1.2-EDA.ipynb`: Exploratory Data Analysis.
+  - `pandasAPI.ipynb`: Pandas API usage.
+- `requirements.txt`: Lists the required Python packages for the project.
+- `sql`: Contains SQL files for creating tables, loading data, and executing queries.
+  - `create_tables.sql`: SQL file for creating tables.
+  - `load_data.sql`: SQL file for loading data into tables.
+  - `querys.sql`: SQL file containing various queries for analysis.
+- `src`: Contains Python scripts for the project.
+  - `downloadS3.py`: Python script for downloading data from the AWS S3 Bucket.
