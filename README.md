@@ -37,3 +37,11 @@ This project is organized as follows:
   - `querys.sql`: SQL file containing various queries for analysis.
 - `src`: Contains Python scripts for the project.
   - `downloadS3.py`: Python script for downloading data from the AWS S3 Bucket.
+  
+## 🚀 Getting Started
+
+1. Clone the repository to your local machine.
+2. Install the required Python packages listed in `requirements.txt`.
+3. Download the datasets from the provided links and place them in the `data/raw` directory.
+4. Run the Jupyter notebooks in the `notebooks` directory to perform data cleaning, processing, and analysis.
+5. Execute the SQL files in the `sql` directory to create tables, load data, and run queries.
