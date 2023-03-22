@@ -1,4 +1,4 @@
-# EDA Project: Analyzing Netflix and Disney Content
+# Comparative Exploratory Data Analysis of Netflix and Disney+ Content
 
 - This project involves conducting a comprehensive **Exploratory Data Analysis** on two **Data Sets** stored in an AWS S3 Bucket.
 - The analysis is performed using **Python** and **SQL**.
