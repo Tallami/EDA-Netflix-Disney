@@ -1,5 +1,7 @@
 # Comparative Exploratory Data Analysis of Netflix and Disney+ Content
 
+In this project, I analyzed two datasets from Disney and Netflix to gain insights into trends in content production in the entertainment industry. I found that Netflix produces significantly more original content than Disney, and that both Netflix and Disney are responding to the growing demand for family-friendly content by producing more content for children and families.
+
 ## 📝 Description
 - This project involves conducting a comprehensive **Exploratory Data Analysis (EDA)** on two datasets containing information about **Netflix** and **Disney+** content, with the data stored in an **AWS S3 Bucket**. The analysis is performed using **Python** and **SQL**.
 
